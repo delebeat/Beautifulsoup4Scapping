@@ -27,6 +27,7 @@ print(price_price)
 for x in price_price:
     print(x['value'])
     print("Just a testing program")
+    print("st")
 
 
 
