@@ -26,6 +26,7 @@ price_price=html_soup.find_all(attrs={'name': 'product_price'})
 print(price_price)
 for x in price_price:
     print(x['value'])
+    print("Just a testing program")
 
 
 
